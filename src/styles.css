@@ -103,3 +103,12 @@
     background-color: #ff3b3b;
   }
   
+  .error-input {
+    border-color: red;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+  }
